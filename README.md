@@ -3,6 +3,9 @@
 
 # OFRP Redmi Note 11/11 NFC (spes/spesn)
 
+- 2201117TG
+- 
+
 ---
 # Device specifications 
 
