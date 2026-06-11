@@ -1,6 +1,7 @@
-![ORANGEFOX](https://wiki.orangefox.tech/banner.svg)
+![cap_sprout](https://wiki.orangefox.tech/banner.svg)
+---
 
-##  OFRP Redmi Note 11/11 NFC (spes/spesn)
+# OFRP Redmi Note 11/11 NFC (spes/spesn)
 
 ---
 # Device specifications 
